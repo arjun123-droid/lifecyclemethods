@@ -32,10 +32,6 @@ Program to print the text “Hello World”.
 Developed by: Arjun.R.S
 Registeration Number :212225240013
 
-Program to print the text “Hello World”.
-Developed by: KOWSHIK RAM.S
-Registeration Number : 212225230143
-
 package com.example.lifecyclemethods;
 
 import android.os.Bundle;
